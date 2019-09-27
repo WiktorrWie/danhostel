@@ -1,0 +1,8 @@
+window.Adform.Tracking.TrackingPointId = 22251435;
+window.Adform.Tracking.TrackingPointName = "More than 60 sec";
+Adform.Tracking.CreateIframeElement("https://track.adform.net/serving/container/?pm=180448&lid=22251435&ctype=0&media=0&PageName=More+than+60+sec&rnd=1617523949&cpref=https%3a%2f%2fwww.google.com%2f&loc=https%3a%2f%2fwww.danhostel.dk%2fen%2fhostel%2fdanhostel-aarhus-city");try{
+var adfUrlCheck = location.href.toLowerCase();
+if (adfUrlCheck.indexOf("?gclid") !== -1) {
+            new Image().src = "https://secure.adnxs.com/px?id=788355&seg=7127655";
+        }
+}catch(e){}
